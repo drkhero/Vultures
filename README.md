@@ -14,7 +14,7 @@ If Player 2 refuses to send their hash secret after Player 1 sends their hash, t
 
 Users "Daniel", "Ryan", and "Dark_Hero" are allowed to fund and check user balances with the following commands:
 
-- `!fund [username]` to fund a user's balance with an ammount of bits.
+- `!fund [username]` to fund a user's balance with an amount of bits.
 - `!bal [username]` to check a user's balance.
 - `fixBal [username]` to correct a user's balance.
 
