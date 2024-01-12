@@ -22,7 +22,7 @@ Users "Daniel", "Ryan", and "Dark_Hero" are allowed to fund and check user balan
 
 For normal users, here are the following commands:
 
-- `!wd [amount]` to withdraw your account balance
+- `?wd [amount]` to withdraw your account balance
 - `@Vultures start game [username] [amountinBits]` to start a game with someone.
 - `!rainon Vultures [amount]` to fund their account balance via Shiba.
 
