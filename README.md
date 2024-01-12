@@ -8,7 +8,7 @@ Player 1 tags Vultures to start a game with the following command: `@Vultures st
 
 If Player 2 refuses to send their hash secret after Player 1 sends their hash, they are automatically forfeited from the game, and the bits for the game go to Player 1.
 
-Players can generate their SHA256 hash via this site (although I encourage players to find their own sites, or even generate the hash locally) : https://emn178.github.io/online-tools/sha256.html
+Players can generate their SHA256 hash via this site (although I encourage players to find their own sites, or even generate the hash locally): https://emn178.github.io/online-tools/sha256.html
 
 ## What are the commands ?
 
